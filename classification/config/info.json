@@ -1,0 +1,38 @@
+{
+    "MCPFirst": [
+        "MCPFirst",
+        11
+    ],
+    "DIPFirst": [
+        "DIPFirst",
+        11
+    ],
+    "PIPFirst": [
+        "PIPFirst",
+        12
+    ],
+    "MIP": [
+        "MIP",
+        12
+    ],
+    "Radius": [
+        "Radius",
+        14
+    ],
+    "Ulna": [
+        "Ulna",
+        12
+    ],
+    "PIP": [
+        "PIP",
+        12
+    ],
+    "DIP": [
+        "DIP",
+        11
+    ],
+    "MCP": [
+        "MCP",
+        10
+    ]
+}
